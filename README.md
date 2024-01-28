@@ -9,7 +9,7 @@
 * Vypocti goniometrickou slozku (arctan).
 * Formatuj vypis pro uzivatele (tento bod zkusime jeste pro hodine), klasifikace 8 bodu vyborne
 * Dopln samostatne vystup tak, aby uhel byl od 0°-360°.
-* Osetri vstup a umozni opakovany vypocet i ukonceni programu
+* Osetri vstup a umozni opakovany vypocet i ukonceni programu.
 #
 ### Pocet bodu (hvezdicek), desitek procent, ciselneho hodnoceni, slovniho hodnoceni
 * 1, 20%, 5, nedostatecne
