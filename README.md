@@ -1,4 +1,3 @@
-# 
 # C# ComplexNumberConverter
 * Prevezmi repositar s programem a uspesne program spust ve Visual studio.
 * Dopln sve jmeno.
@@ -10,4 +9,3 @@
 * Formatuj vypis pro uzivatele (tento bod zkusime jeste pri prvni hodine), klasifikace 8 bodu vyborne
 * Dopln samostatne vystup tak, aby uhel ve vypisu byl od 0°-360°.
 * Osetri vstup a umozni opakovany vypocet i ukonceni programu.
-#
